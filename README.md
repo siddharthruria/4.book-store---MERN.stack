@@ -87,8 +87,13 @@ I would like to express my gratitude to the following resource that made this pr
    ```bash
    cd ..
    ```
+   
+6. 4. Install 'concurrently' in the root fodler:
+   ```bash
+   npm i
+   ```
 
-6. Run the application
+7. Run the application
    ```bash
    npm run both
    ```

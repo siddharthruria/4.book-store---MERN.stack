@@ -95,7 +95,7 @@ I would like to express my gratitude to the following resource that made this pr
 
 7. Run the application
    ```bash
-   npm run both
+   npm run dev
    ```
 ### b. Direct Website Link
 ~ coming soon...

@@ -1,6 +1,14 @@
 {
+  "scripts": {
+    "client": "npm start --prefix client",
+    "server": "npm start --prefix server",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
   }
 }
